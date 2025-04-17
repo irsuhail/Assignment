@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "auth",
+=======
+  "name": "crud",
+>>>>>>> f474607a08a2914735b6faa20075aa0c62195492
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +14,20 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "bcrypt": "^5.1.1",
+=======
+    "bcryptjs": "^3.0.2",
+>>>>>>> f474607a08a2914735b6faa20075aa0c62195492
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.13.2"
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+>>>>>>> f474607a08a2914735b6faa20075aa0c62195492
   }
 }
